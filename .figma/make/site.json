@@ -1,0 +1,10 @@
+{
+  "description": "A multilingual voice assistant that simplifies ride booking for local-language speakers, elderly users, and tourists, enhancing accessibility and convenience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
